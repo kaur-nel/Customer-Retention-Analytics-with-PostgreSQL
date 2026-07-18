@@ -69,7 +69,7 @@ git clone https://github.com/kaur-nel/Customer-Retention-Analytics.git
 ```
 
 ```bash
-cd customer-retention-analytics
+cd Customer-Retention-Analytics
 ```
 
 ---
