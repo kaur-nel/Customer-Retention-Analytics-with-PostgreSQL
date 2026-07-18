@@ -65,7 +65,7 @@ Customer-Retention-Analytics/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/kaur-nel/Customer-Retention-Analytics-with-PostgreSQL.git
+git clone https://github.com/kaur-nel/Customer-Retention-Analytics.git
 ```
 
 ```bash
