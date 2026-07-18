@@ -19,7 +19,7 @@ df_clean['invoicedate'] = pd.to_datetime(df_clean['invoicedate'])
 from sqlalchemy import create_engine
 
 engine = create_engine(
-    "postgresql+psycopg2://postgres:1234@localhost:5432/retail_project"
+    "postgresql+psycopg2://username:password@localhost:5432/retail_project"
 )
 
 df_clean.to_sql('retaildata', engine, index=False, if_exists='replace')
