@@ -65,7 +65,7 @@ Customer-Retention-Analytics/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/kaur-nel/Customer-Retention-Analytics.git
+git clone https://github.com/kaur-nel/Customer-Retention-Analysis.git
 ```
 
 ```bash
